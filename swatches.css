@@ -1,0 +1,25 @@
+:root {
+  /* Shades of Black */
+  --black-1: #000;
+  --black-2: #111;
+  --black-3: #222;
+  --black-4: #333;
+  --black-5: #444;
+  --black-6: #555;
+  --black-7: #666;
+  --black-8: #777;
+  --black-9: #888;
+  --black-10: #999;
+
+  /* Shades of White */
+  --white-1: #fff;
+  --white-2: #f8f8f8;
+  --white-3: #f0f0f0;
+  --white-4: #e8e8e8;
+  --white-5: #e0e0e0;
+  --white-6: #d8d8d8;
+  --white-7: #d0d0d0;
+  --white-8: #c8c8c8;
+  --white-9: #c0c0c0;
+  --white-10: #b8b8b8;
+}
